@@ -1,0 +1,11 @@
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\bin\Debug\USART Arduino Receive And Transmit.exe.config
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\bin\Debug\USART Arduino Receive And Transmit.exe
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\bin\Debug\USART Arduino Receive And Transmit.pdb
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART Arduino Receive And Transmit.csprojAssemblyReference.cache
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART_Arduino_Receive_And_Transmit.Form1.resources
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART_Arduino_Receive_And_Transmit.Properties.Resources.resources
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART_Arduino_Receive_And_Transmit.R1.resources
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART Arduino Receive And Transmit.csproj.GenerateResource.cache
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART Arduino Receive And Transmit.csproj.CoreCompileInputs.cache
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART Arduino Receive And Transmit.exe
+D:\Test4\USART Arduino Receive And Transmit\USART Arduino Receive And Transmit\obj\Debug\USART Arduino Receive And Transmit.pdb
